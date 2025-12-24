@@ -1,0 +1,11 @@
+a = input("Masukkan teks: ")
+print()
+
+titik = a.endswith('.')
+print(f"Diakhiri titik: {titik}")
+semua_alfabet = a.isalpha()
+print(f"Semuanya adalah alfabet: {semua_alfabet}")
+memiliki_x = 'x' in a.lower()
+print(f"Memiliki 'x': {memiliki_x}")
+ubah_e = a.replace('e', 'E')
+print(f"Ubah e -> E: {ubah_e}")
