@@ -1,0 +1,16 @@
+{
+    "Odyssey": {
+        "year": 800,
+        "pages": 374,
+        "language": "Greek",
+        "author": "Homer",
+        "country": "Greece"
+    },
+    "Hamlet": {
+        "year": 1603,
+        "pages": 432,
+        "language": "English",
+        "author": "William Shakespeare",
+        "country": "England"
+    }
+}
